@@ -4,34 +4,36 @@
 U ovom projektu bice demonstrirani razliciti pristupi i modeli masinskog ucenja za analizu i resavanje problema predvidjanja vrednosti kriptovalute Bitcoin. Projekat je radjen za potrebe kursa iz masinskog ucenja.
 
 
-**Skup podataka**
+## Skup podataka
 
-Skup podataka koji je koriscen u projektu moze se preuzeti sa adrese: ..............................
-
-
-**Projekat je radjen po uzoru na radove:**
-
-...............................
+Skup podataka koji je koriscen u projektu moze se preuzeti sa adrese: .....
 
 
-Student: **Jovana Pejkic 1089/2020**
+## Projekat je radjen po uzoru na radove:
 
-Prof. **Jovana Kovacevic**, asistenti: **Andjelka Zecevic**, **Milan Cugurovic**
+.....
 
+
+### Student: **Jovana Pejkic 1089/2020**
+
+### Prof. **Jovana Kovacevic**, asistenti: **Andjelka Zecevic**, **Milan Cugurovic**
 
 Master studije, Matematicki fakultet, Univerzitet u Beogradu
 
 
-......................................................
+------------------------------------------------------------
+
+
+# Bitcoint-Price-Prediction
 
 
 This project presents various approaches and demonstrates the behavior of different models to provide a (deep) machine learning solution to the price prediction problem.
 
-**Data**
+## Data
 
-Dataset used in this project can be downloaded from .................................
+Dataset used in this project can be downloaded from .....
 
-**Related Work**
+## Related Work
 
-.......................................
+.....
 
