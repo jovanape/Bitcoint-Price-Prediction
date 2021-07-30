@@ -37,3 +37,10 @@ Dataset used in this project can be downloaded from .....
 
 .....
 
+
+### Student: **Jovana Pejkic 1089/2020**
+
+### Prof. **Jovana Kovacevic**, assistants: **Andjelka Zecevic**, **Milan Cugurovic**
+
+Master studies, Faculty of Mathematics, University of Belgrade
+
