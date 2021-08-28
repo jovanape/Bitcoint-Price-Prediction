@@ -21,6 +21,7 @@ Close - the bitcoin price at the closing of a period of time
 ## Projekat je radjen po uzoru na radove:
 
 http://ceur-ws.org/Vol-2280/paper-06.pdf
+
 https://www.techscience.com/cmc/v68n3/42488/html (https://www.techscience.com/cmc/v68n3/42488)
 
 
