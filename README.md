@@ -8,10 +8,20 @@ U ovom projektu bice demonstrirani razliciti pristupi i modeli masinskog ucenja 
 
 Skup podataka koji je koriscen u projektu moze se preuzeti sa adrese: .....
 
+Opis atributa:
+
+Open - the bitcoin price at the opening of a period of time
+
+High - the bitcoin's highest price at a period of time
+
+Low - the bitcoin's lowest price at a period of time
+
+Close - the bitcoin price at the closing of a period of time
 
 ## Projekat je radjen po uzoru na radove:
 
-.....
+http://ceur-ws.org/Vol-2280/paper-06.pdf
+https://www.techscience.com/cmc/v68n3/42488/html (https://www.techscience.com/cmc/v68n3/42488)
 
 
 ### Student: **Jovana Pejkic 1089/2020**
