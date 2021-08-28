@@ -8,7 +8,9 @@ U ovom projektu bice demonstrirani razliciti pristupi i modeli masinskog ucenja 
 
 Skup podataka koji je koriscen u projektu moze se preuzeti sa adrese: .....
 
-Opis atributa:
+**Opis atributa:**
+
+Timestamp
 
 Open - the bitcoin price at the opening of a period of time
 
@@ -17,6 +19,12 @@ High - the bitcoin's highest price at a period of time
 Low - the bitcoin's lowest price at a period of time
 
 Close - the bitcoin price at the closing of a period of time
+
+Volume_(BTC)
+
+Volume_(Currency)
+
+Weighted_Price
 
 ## Projekat je radjen po uzoru na radove:
 
