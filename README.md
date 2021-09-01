@@ -27,6 +27,7 @@ Volume_(Currency) - Volume of corresponding currency transacted in this window
 
 Weighted_Price - VWAP - Volume Weighted Average Price
 
+## Korišćene biblioteke: keras, scikit learn, pandas, numpy, seaborn, matplotlib
 
 ## Projekat je radjen po uzoru na radove:
 
@@ -74,6 +75,7 @@ Volume_(Currency) - Volume of corresponding currency transacted in this window
 
 Weighted_Price - VWAP - Volume Weighted Average Price
 
+## Libraries used: keras, scikit learn, pandas, numpy, seaborn, matplotlib
 
 ## Related Work
 
