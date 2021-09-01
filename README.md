@@ -1,4 +1,4 @@
-# Bitcoint-Price-Prediction
+# Bitcoin-Price-Prediction
 
 
 U ovom projektu bice demonstrirani razliciti pristupi i modeli masinskog ucenja za analizu i resavanje problema predvidjanja vrednosti kriptovalute Bitcoin. Projekat je radjen za potrebe kursa iz masinskog ucenja.
