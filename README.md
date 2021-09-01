@@ -9,7 +9,7 @@ U ovom projektu bice demonstrirani razliciti pristupi i modeli masinskog ucenja 
 Skup podataka koji je koriscen u projektu moze se preuzeti sa adrese: https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
 
-**Opis atributa:**
+**--- Opis atributa ---**
 
 Timestamp - Start time of time window (60s window), in Unix time
 
@@ -56,7 +56,7 @@ This project presents various approaches and demonstrates the behavior of differ
 Dataset used in this project can be downloaded from https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
 
-**Columns description:**
+**--- Columns description ---**
 
 Timestamp - Start time of time window (60s window), in Unix time
 
